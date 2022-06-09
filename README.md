@@ -1,2 +1,2 @@
-# data_science_projects
-DS projects for portfolio
+# data_science_collaborations
+DS projects for portfolio evaluated by Discord DS group
